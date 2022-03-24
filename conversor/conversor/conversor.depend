@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1648075352 source:c:\users\julia\documents\faculdade\5º semestre\algorÍtmos\linguagem c\conversor\conversor\main.c
+	<stdio.h>
+	<stdlib.h>
+
